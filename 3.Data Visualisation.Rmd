@@ -3,15 +3,15 @@ title: "3.Data Visualisation"
 author: "HaiXiao Lu"
 date: "3/5/2021"
 output:
+  pdf_document:
+    toc: yes
+    toc_depth: '6'
   html_document:
     toc: yes
     highlight: zenburn
     toc_depth: 6
     number_sections: yes
     theme: lumen
-  pdf_document:
-    toc: yes
-    toc_depth: '6'
   word_document:
     toc: yes
     toc_depth: '6'
